@@ -28,4 +28,4 @@ These tests simulate real browser behavior using ChromeDriver and validate UI el
 3. Clone this repo:
    ```bash
    git clone https://github.com/grace-h/hike-of-the-day-selenium-testing
-   cd hike-of-the-day-selenium-testing
+   cd SeleniumHOTDTests

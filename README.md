@@ -27,5 +27,5 @@ These tests simulate real browser behavior using ChromeDriver and validate UI el
 2. Make sure ChromeDriver is installed and added to your system PATH.
 3. Clone this repo:
    ```bash
-   git clone https://github.com/grace-h/hike-of-the-day-selenium-testing
+   git clone https://github.com/HansonGrace/SeleniumHOTDTests
    cd SeleniumHOTDTests
